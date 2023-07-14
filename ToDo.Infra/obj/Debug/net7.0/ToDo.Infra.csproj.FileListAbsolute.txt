@@ -1,0 +1,15 @@
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/bin/Debug/net7.0/ToDo.Infra.deps.json
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/bin/Debug/net7.0/ToDo.Infra.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/bin/Debug/net7.0/ToDo.Infra.pdb
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/bin/Debug/net7.0/ToDo.Domain.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/bin/Debug/net7.0/ToDo.Domain.pdb
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.csproj.AssemblyReference.cache
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.AssemblyInfoInputs.cache
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.AssemblyInfo.cs
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.csproj.CoreCompileInputs.cache
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.csproj.CopyComplete
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/refint/ToDo.Infra.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.pdb
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ref/ToDo.Infra.dll

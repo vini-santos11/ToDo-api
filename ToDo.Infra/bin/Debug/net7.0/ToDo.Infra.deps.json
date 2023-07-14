@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ToDo.Infra/1.0.0": {
+        "dependencies": {
+          "ToDo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ToDo.Infra.dll": {}
+        }
+      },
+      "ToDo.Domain/1.0.0": {
+        "runtime": {
+          "ToDo.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ToDo.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ToDo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

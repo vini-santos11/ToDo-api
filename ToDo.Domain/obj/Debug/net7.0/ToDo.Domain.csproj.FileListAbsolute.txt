@@ -1,0 +1,12 @@
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/bin/Debug/net7.0/ToDo.Domain.deps.json
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/bin/Debug/net7.0/ToDo.Domain.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/bin/Debug/net7.0/ToDo.Domain.pdb
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ToDo.Domain.csproj.AssemblyReference.cache
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ToDo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ToDo.Domain.AssemblyInfoInputs.cache
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ToDo.Domain.AssemblyInfo.cs
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ToDo.Domain.csproj.CoreCompileInputs.cache
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ToDo.Domain.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/refint/ToDo.Domain.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ToDo.Domain.pdb
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Domain/obj/Debug/net7.0/ref/ToDo.Domain.dll

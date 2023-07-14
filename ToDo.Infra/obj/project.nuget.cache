@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8q6EB22yTE1HaGKEqQ+zy11s4ng+WZi02wo5DZf1CwM8+ByPT4a4o8nneYzTWm15Nc/WqCaUMoZYjYRWW8KFow==",
+  "success": true,
+  "projectFilePath": "/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/ToDo.Infra.csproj",
+  "expectedPackageFiles": [
+    "/home/vinicius/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
