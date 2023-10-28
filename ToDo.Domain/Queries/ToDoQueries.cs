@@ -20,6 +20,11 @@ public static class ToDoQueries
         return x => x.User == user && x.Done;
     }
 
+    public static Expression<Func<ToDoItem, bool>> GetById(Guid id, string user)
+    {
+        return x => x.Id == id && x.User == user;
+    }
+
     public static Expression<Func<ToDoItem, bool>> GetByPeriod(string user, DateTime date, bool done)
     {
         return x =>

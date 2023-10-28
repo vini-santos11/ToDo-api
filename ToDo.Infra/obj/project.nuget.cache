@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "k1drehjIjqzUjpbANxVnDqIIxzVg8HVJEdppIvQXSYY+ZRzbwkdvoUxZV6vB5ReHQPYnPSZMh6AF5dMbFKq9xw==",
+  "dgSpecHash": "vXHM8/crcozFIcDVMZB+fidbEgmjF6Uo4+SW8cAqqm9KJkl1PhWYcXVBvJPz52xdC2GuKf/PS8c1fEi4eFbsfg==",
   "success": true,
   "projectFilePath": "/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/ToDo.Infra.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.design/7.0.9/microsoft.entityframeworkcore.design.7.0.9.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.inmemory/7.0.9/microsoft.entityframeworkcore.inmemory.7.0.9.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.relational/7.0.9/microsoft.entityframeworkcore.relational.7.0.9.nupkg.sha512",
+    "/home/vinicius/.nuget/packages/microsoft.entityframeworkcore.tools/7.0.9/microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "/home/vinicius/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

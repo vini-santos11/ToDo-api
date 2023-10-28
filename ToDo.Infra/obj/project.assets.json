@@ -14,7 +14,7 @@
       "Humanizer.Core/2.14.1": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Humanizer.dll": {
+          "lib/net6.0/_._": {
             "related": ".xml"
           }
         },
@@ -78,7 +78,7 @@
           "Mono.TextTemplating": "2.2.1"
         },
         "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+          "lib/net6.0/_._": {
             "related": ".xml"
           }
         },
@@ -122,6 +122,18 @@
           "lib/net6.0/Microsoft.EntityFrameworkCore.Relational.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Tools/7.0.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Design": "7.0.9"
+        },
+        "compile": {
+          "lib/net6.0/_._": {}
+        },
+        "runtime": {
+          "lib/net6.0/_._": {}
         }
       },
       "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
@@ -227,7 +239,7 @@
           "System.Text.Json": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/Microsoft.Extensions.DependencyModel.dll": {
+          "lib/net7.0/_._": {
             "related": ".xml"
           }
         },
@@ -320,7 +332,7 @@
           "System.CodeDom": "4.4.0"
         },
         "compile": {
-          "lib/netstandard2.0/Mono.TextTemplating.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Mono.TextTemplating.dll": {}
@@ -329,7 +341,7 @@
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
-          "ref/netstandard2.0/System.CodeDom.dll": {
+          "ref/netstandard2.0/_._": {
             "related": ".xml"
           }
         },
@@ -340,7 +352,7 @@
       "System.Text.Encodings.Web/7.0.0": {
         "type": "package",
         "compile": {
-          "lib/net7.0/System.Text.Encodings.Web.dll": {
+          "lib/net7.0/_._": {
             "related": ".xml"
           }
         },
@@ -365,7 +377,7 @@
           "System.Text.Encodings.Web": "7.0.0"
         },
         "compile": {
-          "lib/net7.0/System.Text.Json.dll": {
+          "lib/net7.0/_._": {
             "related": ".xml"
           }
         },
@@ -509,6 +521,31 @@
         "lib/net6.0/Microsoft.EntityFrameworkCore.Relational.xml",
         "microsoft.entityframeworkcore.relational.7.0.9.nupkg.sha512",
         "microsoft.entityframeworkcore.relational.nuspec"
+      ]
+    },
+    "Microsoft.EntityFrameworkCore.Tools/7.0.9": {
+      "sha512": "GWOSIe8ltR/mqv2wpRvMhy6ULapdKhZXXpXSGWzG1fRxhYXjSGpe2Pqhxqo46o9RDGlk0WJUXrwyU+N4voPxMw==",
+      "type": "package",
+      "path": "microsoft.entityframeworkcore.tools/7.0.9",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/net6.0/_._",
+        "microsoft.entityframeworkcore.tools.7.0.9.nupkg.sha512",
+        "microsoft.entityframeworkcore.tools.nuspec",
+        "tools/EntityFrameworkCore.PS2.psd1",
+        "tools/EntityFrameworkCore.PS2.psm1",
+        "tools/EntityFrameworkCore.psd1",
+        "tools/EntityFrameworkCore.psm1",
+        "tools/about_EntityFrameworkCore.help.txt",
+        "tools/init.ps1",
+        "tools/net461/any/ef.exe",
+        "tools/net461/win-arm64/ef.exe",
+        "tools/net461/win-x86/ef.exe",
+        "tools/netcoreapp2.0/any/ef.dll",
+        "tools/netcoreapp2.0/any/ef.runtimeconfig.json"
       ]
     },
     "Microsoft.Extensions.Caching.Abstractions/7.0.0": {
@@ -979,6 +1016,8 @@
     "net7.0": [
       "Microsoft.EntityFrameworkCore.Design >= 7.0.9",
       "Microsoft.EntityFrameworkCore.InMemory >= 7.0.9",
+      "Microsoft.EntityFrameworkCore.Relational >= 7.0.9",
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.9",
       "ToDo.Domain >= 1.0.0"
     ]
   },
@@ -1032,6 +1071,16 @@
           "Microsoft.EntityFrameworkCore.InMemory": {
             "target": "Package",
             "version": "[7.0.9, )"
+          },
+          "Microsoft.EntityFrameworkCore.Relational": {
+            "target": "Package",
+            "version": "[7.0.9, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[7.0.9, )"
           }
         },
         "imports": [
@@ -1050,7 +1099,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }

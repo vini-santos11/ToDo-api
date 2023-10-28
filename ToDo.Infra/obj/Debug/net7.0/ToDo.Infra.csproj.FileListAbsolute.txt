@@ -13,3 +13,5 @@
 /home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/refint/ToDo.Infra.dll
 /home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.pdb
 /home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ref/ToDo.Infra.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/bin/Debug/net7.0/ToDo.Infra.runtimeconfig.json
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Infra/obj/Debug/net7.0/ToDo.Infra.genruntimeconfig.cache
