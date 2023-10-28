@@ -35,3 +35,13 @@
 /home/vinicius/Documentos/Projects/ToDo/ToDo.Api/obj/Debug/net7.0/ToDo.Api.pdb
 /home/vinicius/Documentos/Projects/ToDo/ToDo.Api/obj/Debug/net7.0/ToDo.Api.genruntimeconfig.cache
 /home/vinicius/Documentos/Projects/ToDo/ToDo.Api/obj/Debug/net7.0/ref/ToDo.Api.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Flunt.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Humanizer.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/vinicius/Documentos/Projects/ToDo/ToDo.Api/bin/Debug/net7.0/System.CodeDom.dll
